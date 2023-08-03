@@ -6,14 +6,16 @@
 <h3 align="center">A passionate Frontend Developer from Pakistan</h3> -->
 
 <hr>
-<p>
-    <h2> <i class="fas fa-comment"> </i> About Me</h2> <hr>
-    I'm a passionate 3rd-year Software Engineering undergrad and Embarking on Front-end Developer journey From Pakistan 🌍. Building a solid foundation in web development was the beginning of my career in technology, and I'm continually learning and mastering new front-end technologies. I enjoy taking on challenges and delving further into this thriving sector in order to obtain real-world experience💡. I'm excited to work with knowledgeable professionals, and I can't wait to add my expertise to projects that have a real impact. As I pursue my passion for creativity and broaden my skill set, Sharing my work and development with the fantastic GitHub community makes me very happy. Let's connect, work together, and leave our impact on the tech industry! Please feel free to browse my repositories and get in touch if there are any chances for collaboration. Happy programming! 😊
-</p>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadhuzaifa21&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadhuzaifa21" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadhuzaifa21&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadhuzaifa21" /></p>
+<p>
+    <h2> <i class="fas fa-comment"> </i> About Me</h2> <hr>
+    I'm a passionate 3rd-year Software Engineering undergrad and Embarking on Front-end Developer journey From Pakistan 🌍. Building a solid foundation in web development was the beginning of my career in technology, and I'm continually learning and mastering new front-end technologies. I enjoy taking on challenges and delving further into this thriving sector in order to obtain real-world experience💡. I'm excited to work with knowledgeable professionals, and I can't wait to add my expertise to projects that have a real impact. As I pursue my passion for creativity and broaden my skill set, Sharing my work and development with the fantastic GitHub community makes me very happy. Let's connect, work together, and leave our impact on the tech industry! Please feel free to browse my repositories and get in touch if there are any chances for collaboration. Happy programming! 😊
+
+
+</p>
 
 <hr>
 
