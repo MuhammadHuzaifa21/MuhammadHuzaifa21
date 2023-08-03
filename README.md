@@ -1,6 +1,6 @@
-<p align=”center”>
-    <img width="400" height="200" src="https://github.com/MuhammadHuzaifa21/MuhammadHuzaifa21/blob/main/banner.png?raw=true" alt="my banner" />
-</p>
+<div align="center">
+    <img width="800" height="400" src="https://github.com/MuhammadHuzaifa21/MuhammadHuzaifa21/blob/main/banner.png?raw=true" alt="my banner" />
+</div>
 
 <!-- <h1 align="center">Hi 👋, I'm Muhammad Huzaifa</h1>
 <h3 align="center">A passionate Frontend Developer from Pakistan</h3> -->
