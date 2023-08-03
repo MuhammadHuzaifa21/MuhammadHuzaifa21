@@ -59,5 +59,3 @@
 <hr>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadhuzaifa21&" alt="muhammadhuzaifa21" />
-
-<img align="center" alt="Coding" width="195" src="https://gifdb.com/images/high/coding-function-repeat-eat-sleep-7zxwkklr847mhchm.webp" /> </p>
