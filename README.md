@@ -12,7 +12,7 @@
 
 <h2> <i class="fas fa-comment"> </i> About Me</h2><hr>
 <p>
-    I'm a passionate 3rd-year Software Engineering undergrad and Embarking on Front-end Developer journey From Pakistan 🌍. Building a solid foundation in web development was the beginning of my career in technology, and I'm continually learning and mastering new front-end technologies. I enjoy taking on challenges and delving further into this thriving sector in order to obtain real-world experience💡. I'm excited to work with knowledgeable professionals, and I can't wait to add my expertise to projects that have a real impact. As I pursue my passion for creativity and broaden my skill set, Sharing my work and development with the fantastic GitHub community makes me very happy. Let's connect, work together, and leave our impact on the tech industry! Please feel free to browse my repositories and get in touch if there are any chances for collaboration. Happy programming! 😊
+    I'm a passionate Final year Software Engineering undergrad and Embarking on Front-end Developer journey From Pakistan 🌍. Building a solid foundation in web development was the beginning of my career in technology, and I'm continually learning and mastering new front-end technologies. I enjoy taking on challenges and delving further into this thriving sector in order to obtain real-world experience💡. I'm excited to work with knowledgeable professionals, and I can't wait to add my expertise to projects that have a real impact. As I pursue my passion for creativity and broaden my skill set, Sharing my work and development with the fantastic GitHub community makes me very happy. Let's connect, work together, and leave our impact on the tech industry! Please feel free to browse my repositories and get in touch if there are any chances for collaboration. Happy programming! 😊
 </p>
 
 <hr>
@@ -44,8 +44,8 @@
 
 <h3 align="left">  <i class="fas fa-chain"> </i> Connect with me</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/muhammad-huzaifa21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/muhammad-huzaifa21" height="50" width="40" /></a>
-<a href="https://instagram.com/xx_nfk_xx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xx_nfk_xx" height="60" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/muhammad-huzaifa21" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/muhammad-huzaifa21" height="50" width="40" /></a> &nbsp &nbsp
+<a href="https://instagram.com/xx_nfk_xx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xx_nfk_xx" height="60" width="40" /></a> &nbsp &nbsp
 <a href="https://discord.gg/http://www.discord.com/users/iamhuzaifa21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="http://www.discord.com/users/iamhuzaifa21" height="60" width="50" /></a>
 <a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/mhuzaifa2k"> <img align="right" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/mhuzaifa2k" /></a>
 </p>
