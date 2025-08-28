@@ -1,5 +1,5 @@
 <div align="center">
-    <img width="100%" src="https://github.com/MuhammadHuzaifa21/MuhammadHuzaifa21/blob/main/cover.gif?raw=true" alt="my banner" />
+    <img width="100%" src="https://github.com/MuhammadHuzaifa21/MuhammadHuzaifa21/blob/main/myBanner.png?raw=true" alt="my banner" />
 </div>
 
 <!-- <h1 align="center">Hi 👋, I'm Muhammad Huzaifa</h1>
