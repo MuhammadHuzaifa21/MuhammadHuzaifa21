@@ -19,9 +19,9 @@
 
 - 🌱 I’m currently learning **React JS**
 
-- 👯 I’m looking to collaborate on **Web Development Projects**
+- 👯 I’m looking to collaborate on **Web Development & AI Projects**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, Python**
+- 💬 Ask me about **HTML, CSS, JavaScript, Python, AI Agents**
 
 - 📫 How to reach me **m.huzaifa2k@gmail.com**
 
